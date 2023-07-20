@@ -4,4 +4,4 @@
 
 # kubernetes command 
 
-kubectl 
+kubectl  cluster-info #cluster
