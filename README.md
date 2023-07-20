@@ -11,3 +11,4 @@ kubectl get pods # to get list
 kubectl run my-pod --image nginx 
 
 kubectl get pods -o wide 
+
