@@ -7,3 +7,4 @@
 kubectl cluster-info # cluster info
 
 kubectl get pods # to get list 
+
