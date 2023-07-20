@@ -2,4 +2,6 @@
 
 # kubernetes ~ FDEC_B1 
 
-# kuberne
+# kubernetes command 
+
+kubectl 
